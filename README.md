@@ -1,4 +1,4 @@
-- 👋 Hello world, my name is Wre.
+- 👋 Hello world, my name is Wren.
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on a project.
